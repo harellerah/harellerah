@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+  - 🔭 I’m currently working on private projects in Android and Web development to gain more knowledge
+  - ⚡ I’m currently learning quantum cryptography for my future thesis
+  - 🌱 I recently built an API for booking seats in a movie theater [TDPASS](https://github.com/harellerah/TDPASS) and also an interpreter for my own programming language [RLE](https://github.com/harellerah/RLE_code_editor) 
+  - 👯 I’m looking for a junior position in an R&D team or a researcher position in cybersecurity
+  - 📫 You can reach me through [my LinkedIn profile](https://www.linkedin.com/in/harel-hevrony/)
+
 <!--
 **harellerah/harellerah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
